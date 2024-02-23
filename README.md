@@ -1,7 +1,3 @@
-Replication of an existing academic paper
+Using RMarkdown, I replicated the cleaning, manipulation and presentation of variables, of an existing academic paper using the same dataset and their published paper, in the hopes of producing the same results. The academic paper argued that TV had eroded 'Social Capital', meaning people's involvement in local community and interest/ participation in politics, particularly for people who watched more TV (measured by the TV hours a respondent inputted into the survey). 
 
-Using RMarkdown, I replicated the cleaning, manipulation and presentation of variables, of an existing academic paper, in the hopes of producing the same results. 
-
-I found, using advanced data analysis techniques such as Regressions and Diagnostics, some flaws in this exisisting paper in the inclusion of variables (many missing values) and omission of key independent variables such as demographics. 
-
-Additionally, the project demonstrates an ability to write reports out of R using RMarkdown, and demonstrates an ability to clean and manipulate data correctly, in order to produce comprhensive written output.
+I found, using advanced data analysis techniques such as Regressions and Diagnostics, some flaws in this exisisting paper's conclusions, with the inclusion of variables with many missing values from the author, which skewed results due to reducing the sampling pool that was included within the regression analysis, in addition to,  the omission of key independent variables such as demographics. 
